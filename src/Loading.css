@@ -1,0 +1,11 @@
+h1 {
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  line-height: 1.25;
+  margin-bottom: 0.75rem;
+  line-height: 1;
+  font-size: 3rem;
+}
+.loading {
+  text-align: center;
+}
